@@ -1,3 +1,3 @@
 XML: Extensible Markup Language (XML) é uma linguagem de marcação recomendada para a criação de documentos organizados hierarquicamente. O arquivo XML é uma representação gráfica que obedece os critérios de escrituração fiscal para a NF-e.
-JSON:
+JSON: O formato JSON (JavaScript Object Notation) é um formato aberto usado como alternativa ao XML para a transferência de dados estruturados entre um servidor de Web e uma aplicação Web. Sua lógica de organização tem semelhanças com o XML, mas possui notação diferente.
 YML:
