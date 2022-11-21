@@ -1,0 +1,1 @@
+print("Dependência 1")
